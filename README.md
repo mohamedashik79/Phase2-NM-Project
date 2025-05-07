@@ -29,7 +29,7 @@ python model_training.py
 ```
 
 ## Authors
-- Your Name
+- Mohamed Ashik R
 
 ## License
 [MIT](LICENSE)
